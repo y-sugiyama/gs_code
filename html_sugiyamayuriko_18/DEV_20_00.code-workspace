@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Desktop/dev_20_00"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
